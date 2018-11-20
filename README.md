@@ -7,6 +7,8 @@
 Status](https://travis-ci.org/weecology/portalr.svg?branch=master)](https://travis-ci.org/weecology/portalr)
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.1429290.svg)](https://doi.org/10.5281/zenodo.1429290)
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/weecology/portalr/master/LICENSE)
+[![Coverage
+status](https://codecov.io/gh/karthik/portalr/branch/master/graph/badge.svg)](https://codecov.io/github/karthik/portalr?branch=master)
 
 <img src="man/figures/portalr.png" width="200px">
 
@@ -25,7 +27,7 @@ collected each summer and fall.
 
 You can install portalr from CRAN with:
 
-```
+``` r
 install.packages("portalr")
 ```
 
